@@ -1,0 +1,7 @@
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\bin\Debug\rondacalculator.exe.config
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\bin\Debug\rondacalculator.exe
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\bin\Debug\rondacalculator.pdb
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\obj\Debug\rondacalculator.csproj.AssemblyReference.cache
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\obj\Debug\rondacalculator.csproj.CoreCompileInputs.cache
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\obj\Debug\rondacalculator.exe
+C:\Users\63920\source\repos\rondacalculator\rondacalculator\obj\Debug\rondacalculator.pdb
